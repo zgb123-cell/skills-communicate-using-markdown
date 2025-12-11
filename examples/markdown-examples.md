@@ -277,7 +277,10 @@ Markdown 是一个强大而简单的工具，适合各种场景：
 
 ## 截图
 
-![Error Screenshot](https://via.placeholder.com/600x400?text=Error+Screenshot)
+在 Issue 中附上相关的错误截图能帮助开发者更快定位问题。截图应该包含：
+- 清晰的错误消息
+- 相关的 UI 状态
+- 浏览器控制台（如果有错误信息）
 
 ## 环境信息
 

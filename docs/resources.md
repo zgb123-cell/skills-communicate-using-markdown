@@ -42,14 +42,14 @@
 
 ### 视频教程
 
-1. **[Markdown Crash Course (YouTube)](https://www.youtube.com/results?search_query=markdown+crash+course)**
-   - 多个优质的 Markdown 速成教程
-   - 视觉化学习体验
-   - 适合喜欢视频学习的用户
-
-2. **[GitHub Markdown Tutorial](https://www.youtube.com/results?search_query=github+markdown+tutorial)**
-   - 专注于 GitHub 特定的 Markdown 功能
+1. **[Markdown 速成教程推荐](https://www.bilibili.com/video/BV1JA411h7Gw/)**
+   - 中文视频教程
+   - 适合初学者快速入门
    - 实际操作演示
+
+2. **[GitHub Markdown 使用教程](https://www.bilibili.com/video/BV1hv411y7dr/)**
+   - 专注于 GitHub 特定的 Markdown 功能
+   - 实际项目演示
    - 适合 GitHub 用户
 
 ## 🛠️ 工具和编辑器
