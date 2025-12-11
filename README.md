@@ -47,6 +47,9 @@ GitHub 不仅仅是一个托管代码的地方，它是一个软件协作平台�
 
 为了帮助初学者更好地学习 Markdown，我们提供了以下额外资源：
 
+### 🌟 新手入门
+- **[初学者指南](docs/beginners-guide.md)** - 完整的学习路径和实用技巧，从零开始掌握 Markdown
+
 ### 📖 文档和指南
 - **[Markdown 快速参考指南](docs/markdown-cheatsheet.md)** - 简明的 Markdown 语法速查表，随时查找常用语法
 - **[Markdown 示例文档](examples/markdown-examples.md)** - 实际应用示例，包括项目 README、博客文章、Issue 报告等
@@ -57,11 +60,12 @@ GitHub 不仅仅是一个托管代码的地方，它是一个软件协作平台�
 
 ### 💡 使用建议
 
-1. **先完成互动课程** - 按照下方的步骤开始互动式学习
-2. **查阅快速参考** - 在练习过程中随时查看[快速参考指南](docs/markdown-cheatsheet.md)
-3. **学习实例** - 通过[示例文档](examples/markdown-examples.md)了解实际应用场景
-4. **动手练习** - 使用[练习文档](exercises/practice.md)检验您的学习成果
-5. **探索更多** - 浏览[资源汇总](docs/resources.md)深入学习
+1. **阅读入门指南** - 先查看[初学者指南](docs/beginners-guide.md)了解完整学习路径
+2. **完成互动课程** - 按照下方的步骤开始互动式学习
+3. **查阅快速参考** - 在练习过程中随时查看[快速参考指南](docs/markdown-cheatsheet.md)
+4. **学习实例** - 通过[示例文档](examples/markdown-examples.md)了解实际应用场景
+5. **动手练习** - 使用[练习文档](exercises/practice.md)检验您的学习成果
+6. **探索更多** - 浏览[资源汇总](docs/resources.md)深入学习
 
 ### 如何开始课程
 
