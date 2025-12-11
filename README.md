@@ -43,6 +43,26 @@ GitHub 不仅仅是一个托管代码的地方，它是一个软件协作平台�
 4. 制作任务列表
 5. 合并你的 pull request
 
+## 📚 学习资源
+
+为了帮助初学者更好地学习 Markdown，我们提供了以下额外资源：
+
+### 📖 文档和指南
+- **[Markdown 快速参考指南](docs/markdown-cheatsheet.md)** - 简明的 Markdown 语法速查表，随时查找常用语法
+- **[Markdown 示例文档](examples/markdown-examples.md)** - 实际应用示例，包括项目 README、博客文章、Issue 报告等
+- **[学习资源汇总](docs/resources.md)** - 精选的教程、工具和社区资源
+
+### 🎯 实践练习
+- **[练习文档](exercises/practice.md)** - 10个循序渐进的练习，从基础到高级，帮助您巩固 Markdown 技能
+
+### 💡 使用建议
+
+1. **先完成互动课程** - 按照下方的步骤开始互动式学习
+2. **查阅快速参考** - 在练习过程中随时查看[快速参考指南](docs/markdown-cheatsheet.md)
+3. **学习实例** - 通过[示例文档](examples/markdown-examples.md)了解实际应用场景
+4. **动手练习** - 使用[练习文档](exercises/practice.md)检验您的学习成果
+5. **探索更多** - 浏览[资源汇总](docs/resources.md)深入学习
+
 ### 如何开始课程
 
 <!-- For start course, run in JavaScript:
